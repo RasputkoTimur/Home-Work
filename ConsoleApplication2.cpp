@@ -2,38 +2,59 @@
 using namespace std;
 int main()
 {
+    // Первое задание
+    
+    int a;
+    int b;
+    int c;
 
-	setlocale(LC_ALL, "rus");
-	// Первое задание
-	double R1, R2, R3, R0;
-	cout << "Введите R1 : ";
-	cin >> R1;
-	cout << "Введите R2 : ";
-	cin >> R2;
-	cout << "Введите R3 : ";
-	cin >> R3;
+    cin >> a;
 
-	R0 = 1 / R1 + 1 / R2 + 1 / R3;
+    b = a/ 60;
+    a = a% 60;
+    c = b / 60;
+    b = b % 60;
+    cout  << c << " : " << b << " : " << a << endl;
 
-	cout << R0 << endl;
+    // Второе задание
 
-	//Второе задание
-	const double PI = 3.14;
-	double s, l, r;
-	cout << "Введите l: ";
-	cin >> l;
-	r = l / (2 * PI);
-	s = PI * r * r;
-	cout << s << endl << r << endl;
-	
-	//Третье задание
-	double v, t, a, s;
-	cout << "Введите v: ";
-	cin >> v;
-	cout << "Введите t: ";
-	cin >> t;
-	cout << "Введите a: ";
-	cin >> a;
-	s = v * t + (a * t * t) / 2;
-	cout << s << endl;
+    double a;
+    int b;
+    int c;
+    cin >> a;
+    b = a;
+    c = (a - b) * 100;
+    cout << b << " dollars, " << c << " cent.";
+
+    // Третье задание
+
+    int a;
+    int b;
+    cin >> a;
+    b = a / 7;
+    a = a % 7;
+    cout << b << " weeks and " << a << " days.";
+
+    // Четвёртое задание
+
+    setlocale(LC_ALL, "rus");
+    double speed;
+    double distance;
+    double time;
+    int minutes;
+    int seconds;
+    cout << "Вычисление скорости бега" << endl;
+    cout << "Введите длину дистанции (метров) =  ";
+    cin >> distance;
+    cout << "Введите время (мин.сек) = ";
+    cin >> time;
+    minutes = time;
+    seconds = (time - minutes) * 100;
+    time = (minutes * 60) + seconds;
+    speed = distance / time * 3.6;
+    cout << "Дистанция: " << distance << "м" << endl;
+    cout << "Время: " << minutes << " мин " << seconds << " секунды = " << time << " секунд" << endl;
+    cout << "Вы бежали со скоростью  " << speed << "км/ч" << endl;
+
 }
+
