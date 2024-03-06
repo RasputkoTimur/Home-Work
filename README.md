@@ -7,3 +7,5 @@
 * #### [Урок 3](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication3.cpp)
 ### ДЗ | Циклы (26.02)
 * #### [Урок 4](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication4.cpp)
+# Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
