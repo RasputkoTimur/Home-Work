@@ -16,24 +16,26 @@ int main()
         cout << "ошибка";
     }
     // Второе задание
-    int a;
-    int b;
-    int c;
-    int d;
+    int a, b, c, d;
+    int newnum;
+    int temp;
+    int num,
     cout << "Введите четырехзначное число: " << endl;
-    for (int i = 0; i < 4; ++i) {
-        if (i < 3) {
-            cin >> a;
-            cin >> b;
-            cin >> c;
-            cin >> d;
-            cout << b << a << d << c;
-        }
-        else if (i > 3)
-        {
-            cout << "Ошибка" << endl;
-        }
+    cin >> num;
+    if (num / 1000 < 1) cout << "Ошиька!";
+    else if (num / 1000 > 9) cout << "Ошибка!";
+    else
+    {
+        d = num % 10;
+        temp = num / 10;
+        c = temp % 10;
+        temp = temp / 10;
+        b = temp % 10;
+        a = temp / 10;
     }
+    newnum = d2 * 1000 + d1 * 100 + d4 *
+        10 + d3;
+    cout << newnum;
     // Третье задание
     cout << "Home task #4.1.3\n\n";
     int a, b, c, d, e, f, g, h;
