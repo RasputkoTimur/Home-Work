@@ -11,5 +11,7 @@
 * #### [Урок 5](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication4.cpp)
 ### ДЗ | Цикл for (28.02)
 * #### [Урок 6](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication4.cpp)
+### ДЗ | Массивы и Stack (06.03)
+* #### [Урок 7](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication7.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
