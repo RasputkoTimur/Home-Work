@@ -13,5 +13,7 @@
 * #### [Урок 6](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication4.cpp)
 ### ДЗ | Массивы и Stack (06.03)
 * #### [Урок 7](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication7.cpp)
+### ДЗ | Bubble Sort (11.03)
+* #### [Урок 8](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication8.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
