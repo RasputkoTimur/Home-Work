@@ -15,5 +15,7 @@
 * #### [Урок 7](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication7.cpp)
 ### ДЗ | Bubble Sort (11.03)
 * #### [Урок 8](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication8.cpp)
+### ДЗ | Selection Sort (13.03)
+* #### [Урок 9](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication9.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
