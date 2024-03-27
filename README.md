@@ -17,5 +17,7 @@
 * #### [Урок 8](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication8.cpp)
 ### ДЗ | Selection Sort (13.03)
 * #### [Урок 9](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication9.cpp)
+### ДЗ | Сортировка Шейкерная и Подсчётом. (18.03)
+* #### [Урок 10](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication10.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
