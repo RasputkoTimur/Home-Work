@@ -21,5 +21,7 @@
 * #### [Урок 10](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication10.cpp)
 ### ДЗ | Двумерные массивы (20.03)
 * #### [Урок 11](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication11.cpp)
+### ДЗ | Двумерные массивы (25.03)
+* #### [Урок 12](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication12.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
