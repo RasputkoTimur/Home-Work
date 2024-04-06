@@ -23,7 +23,9 @@
 * #### [Урок 11](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication11.cpp)
 ### ДЗ | Двумерные массивы (25.03)
 * #### [Урок 12](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication12.cpp)
-### ДЗ | Функции (05.04)
+### ДЗ | Функции (27.03)
 * #### [Урок 13](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication13.cpp)
+### ДЗ | Функции (01.04)
+* #### [Урок 14](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication14.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
