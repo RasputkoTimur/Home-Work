@@ -1,29 +1,26 @@
 ﻿#include <iostream>
 using namespace std;
 
-int perevod(int n)
-{
-    int num = 0;
-    int a = 1;
-    int temp = n;
-
-    while (temp)
-    {
-        int last_num = temp % 10;
-        temp = temp / 10;
-        num += last_num * a;
-        a = a * 2;
+void perevod(int ten_num) {
+    int two_num[1000];
+    int i = 0;
+    while (ten_num > 0) {
+        two_num[i] = ten_num % 2;
+        ten_num = ten_num / 2;
+        i++;
     }
-
-    return num;
+    for (int j = i - 1; j >= 0; j--) {
+        cout << two_num[j];
+    }
 }
 
 int main()
 {
     setlocale(LC_ALL, "rus");
-    int num;
-    cout << "Введите число: ";
-    cin >> num;
+    int a;
 
-    cout << "В переводе: " << perevod(num) <<endl;
+    cout << "Введите а: ";
+    cin >> a;
+
+    perevod(a);
 }
