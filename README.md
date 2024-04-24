@@ -27,6 +27,8 @@
 * #### [Урок 13](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication13.cpp)
 ### ДЗ | Функции (01.04)
 * #### [Урок 14](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication14.cpp)
+### НЕДОДЕЛАЛ
+* #### [Урок 15](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication15.cpp)
 ### ДЗ | Функции (15.04)
 * #### [Урок 16](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication16.cpp)
 # Stats
