@@ -33,5 +33,7 @@
 * #### [Урок 16](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication16.cpp)
 ### ДЗ | Функции (22.04)
 * #### [Урок 17](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication21.cpp)
+### ДЗ | Функции (24.04)
+* #### [Урок 17](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication22.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
