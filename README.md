@@ -34,6 +34,8 @@
 ### ДЗ | Функции (22.04)
 * #### [Урок 17](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication21.cpp)
 ### ДЗ | Функции (24.04)
-* #### [Урок 17](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication22.cpp)
+* #### [Урок 18](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication22.cpp)
+### ДЗ | Динамические массивы и функции (06.05)
+* #### [Урок 19](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication23.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
