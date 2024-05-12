@@ -1,26 +1,41 @@
 ﻿#include <iostream>
 using namespace std;
 
-void perevod(int ten_num) {
-    int two_num[1000];
+void perevod(int num, int sistema)
+{
+    int a[36];
     int i = 0;
-    while (ten_num > 0) {
-        two_num[i] = ten_num % 2;
-        ten_num = ten_num / 2;
+    int n;
+    int ostatok;
+    int num1;
+
+    while (num > 0) {
+        num1 = num;
+        num /= sistema;
+        ostatok = num1 - num * sistema;
+        a[i] = ostatok;
         i++;
     }
-    for (int j = i - 1; j >= 0; j--) {
-        cout << two_num[j];
+    i--;
+    for (int j = i;j >= 0;j--) {
+        if (a[j] >= 10) {
+            n = a[j] + 55;
+            cout << char(n);
+        }
+        else  cout << a[j];
     }
+    cout << endl;
 }
 
 int main()
 {
     setlocale(LC_ALL, "rus");
-    int a;
+    int num;
+    int sistema;
 
-    cout << "Введите а: ";
-    cin >> a;
-
-    perevod(a);
+    cout << "Введите число в десятичной системе счисления: ";
+    cin >> num;
+    cout << "В какую систему счисления его перевести?: ";
+    cin >> sistema;
+    perevod(num, sistema);
 }
