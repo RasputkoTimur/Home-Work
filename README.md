@@ -37,5 +37,7 @@
 * #### [Урок 18](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication22.cpp)
 ### ДЗ | Динамические массивы и функции (06.05)
 * #### [Урок 19](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication23.cpp)
+* ### ДЗ | QuickSort (08.05)
+* #### [Урок 20](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication26.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
