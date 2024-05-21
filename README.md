@@ -39,5 +39,7 @@
 * #### [Урок 19](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication23.cpp)
 * ### ДЗ | QuickSort (08.05)
 * #### [Урок 20](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication26.cpp)
+* ### ДЗ | QuickSort (13.05)
+* #### [Урок 21](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication27.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
