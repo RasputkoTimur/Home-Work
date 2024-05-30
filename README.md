@@ -43,5 +43,7 @@
 * #### [Урок 21](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication27.cpp)
 * ### ДЗ | TaskList (22.05)
 * #### [Урок 22](https://github.com/RasputkoTimur/Home-Work/blob/main/main4.cpp)
+* * ### ДЗ | TaskList (22.05)
+* #### [Урок 23](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication29.cpp)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
