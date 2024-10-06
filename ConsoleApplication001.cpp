@@ -56,7 +56,7 @@ class DynamicArray
         }
 
         void showByIndex(int i){
-            cout << arr[i];
+            cout << "Под индексом " << i << " стоит " << arr[i] << endl;
         }
     };
 
@@ -73,6 +73,8 @@ int main() {
     dyn_arr.showSize();
     dyn_arr.showElements();
 
+    dyn_arr.showByIndex(2);
+
     dyn_arr.addElement(4);
     dyn_arr.showSize();
     dyn_arr.showElements();
@@ -83,7 +85,4 @@ int main() {
 
     dyn_arr.nullArray();
     dyn_arr.showSize();
-    dyn_arr.showElements();
-
-    dyn_arr.showByIndex(2);
 }
