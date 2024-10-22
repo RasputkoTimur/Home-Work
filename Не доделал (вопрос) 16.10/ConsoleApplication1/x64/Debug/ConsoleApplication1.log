@@ -1,0 +1,238 @@
+﻿  Array.cpp
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(29,5): error C2590: Matrix: список инициализации базовых классов и членов может быть только в конструкторе
+  (компиляция исходного файла "Array.cpp")
+  D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(29,5):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(6,7):
+  	при компиляции шаблона класса "Matriza"
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(34,6): error C2523: Matriza<T>::~Matrix: несовпадение тегов деструктор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(69,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "+"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(69,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(69,34): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(83,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "-"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(83,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(83,34): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(97,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(97,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(97,34): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(111,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "/"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(111,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(111,34): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(62,35): error C2039: "setw": не является членом "std".
+  (компиляция исходного файла "Array.cpp")
+  D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(23,1):
+   см. объявление "std"
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(70,21): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(70,43): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,16): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,16): message : пропущено восстановление ошибки: "идентификатор ( идентификатор"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,27): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,27): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,27): message : пропущено восстановление ошибки: ","
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,33): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,33): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(73,33): message : пропущено восстановление ошибки: ")"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(76,17): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(76,50): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(79,16): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(84,21): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(84,43): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,16): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,16): message : пропущено восстановление ошибки: "идентификатор ( идентификатор"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,27): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,27): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,27): message : пропущено восстановление ошибки: ","
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,33): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,33): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(87,33): message : пропущено восстановление ошибки: ")"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(90,17): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(90,50): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(93,16): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(98,21): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(98,43): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,16): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,16): message : пропущено восстановление ошибки: "идентификатор ( идентификатор"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,27): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,27): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,27): message : пропущено восстановление ошибки: ","
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,33): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,33): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(101,33): message : пропущено восстановление ошибки: ")"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(104,17): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(104,50): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(107,16): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(112,21): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(112,43): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,16): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,16): message : пропущено восстановление ошибки: "идентификатор ( идентификатор"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,27): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,27): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,27): message : пропущено восстановление ошибки: ","
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,33): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,33): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(115,33): message : пропущено восстановление ошибки: ")"
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(118,21): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(121,17): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(121,50): error C2065: other: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\Array.h(124,16): error C2065: result: необъявленный идентификатор
+  (компиляция исходного файла "Array.cpp")
+  
+  ConsoleApplication1.cpp
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,5): error C2760: синтаксическая ошибка: непредвиденный элемент "}". Ожидается ";"
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62,3): error C2995: T findMax(T,T): шаблон функции уже определен
+  D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,3):
+   см. объявление "findMax"
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(67,3): error C2995: T findMin(T,T): шаблон функции уже определен
+  D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,3):
+   см. объявление "findMin"
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(72,6): error C2995: void bubbleSort(T [],int): шаблон функции уже определен
+  D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,6):
+   см. объявление "bubbleSort"
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(83,5): error C2995: int binarySearch(T [],int,T): шаблон функции уже определен
+  D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26,5):
+   см. объявление "binarySearch"
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(97,6): error C2995: void addElement(T [],int,T,int): шаблон функции уже определен
+  D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,6):
+   см. объявление "addElement"
+  
+D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110,5): error C2084: функция "int main(void)" уже имеет текст реализации
+  D:\Пользователи\Тимур\Рабочий стол\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(53,5):
+  см. предыдущее определение "main"
+  
+  Создание кода...
