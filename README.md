@@ -51,5 +51,6 @@
 * #### [Урок 1](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication001.cpp)
 * * ### ДЗ (10.10)
 * #### [Урок 2](https://github.com/RasputkoTimur/Home-Work/blob/main/ConsoleApplication002.cpp)
+* #### [21.10](https://github.com/RasputkoTimur/Home-Work/blob/main/hw)
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasputkoTimur&theme=dark)
